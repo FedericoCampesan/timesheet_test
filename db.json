@@ -1,22 +1,24 @@
 {
-  "user": [
-    {
-      "UserName": "campesan",
-      "FullUserName": "TESI\\Federico",
-      "Name": "Federico Campesan",
-      "IsAdmin": true
-    },
-    {
-      "UserName": "pippo",
-      "FullUserName": "TESI\\pippo",
-      "Name": "Pippo",
-      "IsAdmin": false
-    },
-    {
-      "UserName": "pluto",
-      "FullUserName": "TESI\\pluto",
-      "Name": "pluto",
-      "IsAdmin": false
-    }
-  ]
+  "api": {
+      "users": [
+      {
+        "UserName": "campesan",
+        "FullUserName": "TESI\\Federico",
+        "Name": "Federico Campesan",
+        "IsAdmin": true
+      },
+      {
+        "UserName": "pippo",
+        "FullUserName": "TESI\\pippo",
+        "Name": "Pippo",
+        "IsAdmin": false
+      },
+      {
+        "UserName": "pluto",
+        "FullUserName": "TESI\\pluto",
+        "Name": "pluto",
+        "IsAdmin": false
+      }
+    ]
+  }
 }
