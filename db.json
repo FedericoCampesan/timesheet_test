@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "UserName": "brogliato",
+      "FullUserName": "TESI\\brogliato",
+      "Name": "Sara Brogliato",
+      "IsAdmin": true
+    },
+    {
+      "UserName": "pippo",
+      "FullUserName": "TESI\\pippo",
+      "Name": "Pippo",
+      "IsAdmin": false
+    },
+    {
+      "UserName": "pluto",
+      "FullUserName": "TESI\\pluto",
+      "Name": "pluto",
+      "IsAdmin": false
+    }
+  ]
+}
